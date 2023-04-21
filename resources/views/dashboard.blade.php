@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-md-offset-4" style="margin-top:20px;">
-                <h4>Welcome to dashboard</h4>
+                <h4>Welcome to dashboard page</h4>
                 <hr>
                 <table class="table">
                     <thead>
